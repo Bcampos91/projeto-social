@@ -39,16 +39,16 @@ iframe#tela{
     position: relative;
     top: 80px;  
     left: 22px;
-    width: 270px;
+    width: 267px;
     height: 471px;
 }
 section#redes-sociais{
     text-align: right;
 }
 
-section#redes-sociais > a > img {
+section#redes-sociais img {
     width: 50px;/*botôes pequenos*/
-    margin: 10px;
+    margin: 10px;/*separar*/
     border-radius: 50%; /*botões redondos*/
     box-shadow: 2px 2px 5px rgba(0,0,0,0.400);
     box-sizing: border-box;/*border fazer parte da caixa*/
